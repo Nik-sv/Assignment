@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Scanner;
 
 public class Sum_Of_all_the_Elements {

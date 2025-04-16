@@ -1,6 +1,6 @@
-//import java.util.Scanner;
+package Arrays;//import java.util.Scanner;
 //
-//public class Even_and_Odd {
+//public class Arrays.Even_and_Odd {
 //
 //
 //    public static int EvenOdd(int[] arr , int n) {

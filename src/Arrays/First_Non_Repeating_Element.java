@@ -1,6 +1,6 @@
-//import java.util.Scanner;
+package Arrays;//import java.util.Scanner;
 //
-//public class First_Non_Repeating_Element {
+//public class Arrays.First_Non_Repeating_Element {
 //
 //    //   First non-Repeating
 //

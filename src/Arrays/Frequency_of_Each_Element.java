@@ -1,6 +1,6 @@
-//import java.util.Scanner;
+package Arrays;//import java.util.Scanner;
 //
-//public class Frequency_of_Each_Element {
+//public class Arrays.Frequency_of_Each_Element {
 //
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
@@ -39,7 +39,7 @@
 //
 //import java.util.Scanner;
 //
-//public class Frequency_of_Each_Element {
+//public class Arrays.Frequency_of_Each_Element {
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
 //
@@ -141,7 +141,7 @@ public class Frequency_of_Each_Element {
 
 //import java.util.*;
 //
-//public class Frequency_of_Each_Element {
+//public class Arrays.Frequency_of_Each_Element {
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
 //        System.out.println("Enter number of elements: ");

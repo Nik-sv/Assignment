@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Scanner;
 
 public class Sum_Of_Elements_OddEven {
@@ -22,7 +24,6 @@ public class Sum_Of_Elements_OddEven {
     }
 
 
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -33,9 +34,6 @@ public class Sum_Of_Elements_OddEven {
         System.out.println("Enter the elements: ");
         for (int i = 0; i < n; i++) arr[i] = sc.nextInt();
 
-
         PrintSumOfOddandEven(arr);
-
-
     }
 }

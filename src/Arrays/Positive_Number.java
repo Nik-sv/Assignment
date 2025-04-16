@@ -1,6 +1,6 @@
-//import java.util.Scanner;
+package Arrays;//import java.util.Scanner;
 //
-//public class Positive_Number {
+//public class Arrays.Positive_Number {
 //
 //    // Array Contain Only Positive Number
 //

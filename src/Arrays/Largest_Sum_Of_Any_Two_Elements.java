@@ -1,6 +1,6 @@
-//import java.util.Scanner;
+package Arrays;//import java.util.Scanner;
 //
-//public class Largest_Sum_Of_Any_Two_Elements {
+//public class Arrays.Largest_Sum_Of_Any_Two_Elements {
 //
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
@@ -58,7 +58,7 @@
 
 //import java.util.Scanner;
 //
-//public class Largest_Sum_Of_Any_Two_Elements {
+//public class Arrays.Largest_Sum_Of_Any_Two_Elements {
 //
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
